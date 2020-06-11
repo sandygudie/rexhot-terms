@@ -10,7 +10,10 @@ export default function Footer() {
                 </div>
 
 
-               <div class="rexrignt">
+               <div class="rexrignt">   
+           
+
+
 
                     <span><a href="">About</a></span>
                     <span><a href="">Careers</a></span>
