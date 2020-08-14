@@ -197,12 +197,10 @@ export class Faq extends Component {
                       this.state.current === 9 ? "open " : ""
                     }`}
                   >
-                    While Eden’s plans run on a monthly schedule, we understand
-                    // that it’s a significant lifestyle change for first-time
-                    customers, // and so we offer the Eden Free trials, where we
-                    let you ‘sample’ the plan you’re interested // in for a week
-                    before you finally decide to kickstart your monthly
-                    subscription.
+                   Once you are connected with the creator on Rexhot, on the
+                    creators page/posts or content, Click on the blinking Red
+                    Hot icon and Enter Amount of hot you wants to give and Send
+                    Hot.
                   </div>
                 </div>
 
@@ -249,12 +247,10 @@ export class Faq extends Component {
                       this.state.current === 11 ? "open " : ""
                     }`}
                   >
-                    While Eden’s plans run on a monthly schedule, we understand
-                    // that it’s a significant lifestyle change for first-time
-                    customers, // and so we offer the Eden Free trials, where we
-                    let you ‘sample’ the plan you’re interested // in for a week
-                    before you finally decide to kickstart your monthly
-                    subscription.
+                   Once you are connected with the creator on Rexhot, on the
+                    creators page/posts or content, Click on the blinking Red
+                    Hot icon and Enter Amount of hot you wants to give and Send
+                    Hot.
                   </div>
                 </div>
 
@@ -311,12 +307,10 @@ export class Faq extends Component {
                       this.state.current === 14 ? "open " : ""
                     }`}
                   >
-                    While Eden’s plans run on a monthly schedule, we understand
-                    // that it’s a significant lifestyle change for first-time
-                    customers, // and so we offer the Eden Free trials, where we
-                    let you ‘sample’ the plan you’re interested // in for a week
-                    before you finally decide to kickstart your monthly
-                    subscription.
+                   Once you are connected with the creator on Rexhot, on the
+                    creators page/posts or content, Click on the blinking Red
+                    Hot icon and Enter Amount of hot you wants to give and Send
+                    Hot.
                   </div>
                 </div>
 
@@ -349,12 +343,10 @@ export class Faq extends Component {
                       this.state.current === 16 ? "open " : ""
                     }`}
                   >
-                    While Eden’s plans run on a monthly schedule, we understand
-                    // that it’s a significant lifestyle change for first-time
-                    customers, // and so we offer the Eden Free trials, where we
-                    let you ‘sample’ the plan you’re interested // in for a week
-                    before you finally decide to kickstart your monthly
-                    subscription.
+                    Once you are connected with the creator on Rexhot, on the
+                    creators page/posts or content, Click on the blinking Red
+                    Hot icon and Enter Amount of hot you wants to give and Send
+                    Hot.
                   </div>
                 </div>
 
@@ -391,12 +383,10 @@ export class Faq extends Component {
                       this.state.current === 19 ? "open " : ""
                     }`}
                   >
-                    While Eden’s plans run on a monthly schedule, we understand
-                    // that it’s a significant lifestyle change for first-time
-                    customers, // and so we offer the Eden Free trials, where we
-                    let you ‘sample’ the plan you’re interested // in for a week
-                    before you finally decide to kickstart your monthly
-                    subscription.
+                   Once you are connected with the creator on Rexhot, on the
+                    creators page/posts or content, Click on the blinking Red
+                    Hot icon and Enter Amount of hot you wants to give and Send
+                    Hot.
                   </div>
                 </div>
 
@@ -430,12 +420,10 @@ export class Faq extends Component {
                       this.state.current === 21 ? "open " : ""
                     }`}
                   >
-                    While Eden’s plans run on a monthly schedule, we understand
-                    // that it’s a significant lifestyle change for first-time
-                    customers, // and so we offer the Eden Free trials, where we
-                    let you ‘sample’ the plan you’re interested // in for a week
-                    before you finally decide to kickstart your monthly
-                    subscription.
+                    Once you are connected with the creator on Rexhot, on the
+                    creators page/posts or content, Click on the blinking Red
+                    Hot icon and Enter Amount of hot you wants to give and Send
+                    Hot.
                   </div>
                 </div>
 
