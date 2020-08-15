@@ -371,6 +371,9 @@ export class Faq extends Component {
                 </div>
               </div>
 
+
+
+{/* eaening */}
               <div id="products">
                 <h4 style={{ color: "#da9b3d" }}>Earning</h4>
                 <div className="quests">
